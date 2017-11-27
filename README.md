@@ -1,4 +1,2 @@
 # Projects
-dbhjsbjksadnsa
-dsadjksadbjksa
-djkbsa
+dbhjsbjksadnsa dsadjksadbjksa djkbsa
